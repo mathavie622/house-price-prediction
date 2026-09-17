@@ -312,6 +312,13 @@ The final output displays:
 - Project Status
 
 ---
+### Dataset Preview
+
+![Dataset Preview](dataset_preview.png)
+
+### Actual vs Predicted Values
+
+![Actual vs Predicted](actual_vs_predicted.png)
 
 ## 18. Results
 
