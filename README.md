@@ -319,7 +319,9 @@ The final output displays:
 ### Actual vs Predicted Values
 
 ![Actual vs Predicted](actual_vs_predicted.png)
+### Actual vs Predicted Values
 
+![Actual vs Predicted](actual%20house.png)
 ## 18. Results
 
 The Linear Regression model was successfully trained to predict house values using the California Housing dataset.
